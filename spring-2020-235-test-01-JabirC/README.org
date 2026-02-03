@@ -1,0 +1,43 @@
+* Spring 2020 - 235 - test - 1
+
+* Due: Thursday 3/12 11:00am
+
+* Last name: Chowdhury
+
+* First name: Jabir
+
+* GitHub username: JabirC
+
+* Notes:
+
+ 
+* General instructions:
+- See the PDF file named test-01.pdf for questions.
+- You may not use your notes or any online resource for this exam.
+- You may do this exam on paper using no online or print materials 
+- If you do this exam on paper, scan your answers to a single pdf file
+  named answers.pdf and upload to this repo by 11:05am on the test
+  day.
+- You can also write your answers in a file named answers.txt. You may
+  not use any online resources.
+- If you write your answers on a computer, you may not use a
+  programmer editor or IDE that provide any special features such as
+  auto-indenting, code highlighting, help, etc. Just a plain editor
+  on a non C++ file like notepad or gedit.
+
+* Affidavit
+Please write out on paper a statement indicating you worked alone on
+the exam  during the specified time period and did not use any
+additional resources to help complete the exam (such as notes, books,
+a programmer editor or IDE or other online resource, code samples
+etc.).
+
+Print your name, sign and date the document scan it and add it to the
+repo under a file named affidavit.pdf. 
+
+* Scanning
+
+You can use an app like adobescan or clearscanner which are free and
+can be installed on your phone (android). They can take pictures of
+your documents and convert them to pdf files.
+
